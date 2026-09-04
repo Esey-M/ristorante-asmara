@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+# Answer engines are explicitly welcome.
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://esey-m.github.io/ristorante-asmara/sitemap.xml
